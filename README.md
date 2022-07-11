@@ -12,7 +12,7 @@ A simple 3D flat button with click animation!
 
 ```yaml
 dependencies:
-  flat_3d_button: ^1.0.0
+  flat_3d_button: ^1.0.1
 ```
 
 ## 🚚 Import
