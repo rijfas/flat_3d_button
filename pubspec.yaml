@@ -1,6 +1,9 @@
 name: flat_3d_button
-description: A simple 3D flat button with click animation!
-version: 1.0.0
+description: A simple 3D flat button with click animation,
+  flat 3d button contains 3 methods,
+  a flat 3d button with any widget as it's child,
+  text as it's child and also an icon as it's child
+version: 1.0.1
 homepage: https://github.com/rijfas/flat_3d_button
 repository: https://github.com/rijfas/flat_3d_button
 
