@@ -1,4 +1,4 @@
-## 1.0.0
+## 1.0.2
 
 - Basic `Flat3dButton` widget with any child widget.
 - `Flat3dButton.icon` for flat 3D button with icon as child widget.
