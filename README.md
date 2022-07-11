@@ -2,9 +2,9 @@
 
 [![pub package](https://img.shields.io/pub/v/flat_3d_button.svg)](https://pub.dartlang.org/packages/flat_3d_button)
 
-<center>
+<p align="center">
   <img src="https://github.com/rijfas/flat_3d_button/raw/main/images/banner.png">
-</center>
+</p>
 
 A simple 3D flat button with click animation!
 
@@ -12,7 +12,7 @@ A simple 3D flat button with click animation!
 
 ```yaml
 dependencies:
-  flat_3d_button: ^1.0.2
+  flat_3d_button: ^1.0.3
 ```
 
 ## 🚚 Import
@@ -25,9 +25,9 @@ import 'package:flat_3d_button/flat_3d_button.dart';
 
 #### 1. Counter app using flat 3D buttons:
 
-<center>
+<p align="center">
   <img src="https://github.com/rijfas/flat_3d_button/raw/main/images/flat_3d_button_counter.GIF" height="100" align="center">
-</center>
+</p>
 <br>
 
 ```dart
@@ -53,9 +53,9 @@ refer to the `main.dart` in the example for complete source code.
 
 #### 2. Flat 3D button with text:
 
-<center>
+<p align="center">
   <img src="https://github.com/rijfas/flat_3d_button/raw/main/images/flat_3d_button_text.GIF" height="100" align="center">
-</center>
+</p>
 <br>
 
 ```dart
@@ -67,9 +67,9 @@ Flat3dButton.text(
 
 #### 3. Flat 3D button with icon:
 
-<center>
+<p align="center">
   <img src="https://github.com/rijfas/flat_3d_button/raw/main/images/flat_3d_button_icon.GIF" height="100" align="center">
-</center>
+</p>
 <br>
 
 ```dart
